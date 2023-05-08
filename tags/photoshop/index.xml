@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photoshop on </title>
+    <title>Photoshop on cyberneel</title>
     <link>https://cyberneel.github.io/tags/photoshop/</link>
-    <description>Recent content in Photoshop on </description>
+    <description>Recent content in Photoshop on cyberneel</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberneel.github.io/tags/photoshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Cyber District</title>
@@ -12,7 +13,7 @@
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cyberneel.github.io/blog/the-cyber-district/</guid>
-      <description>A digital artpeice Rendered in Blender and edited in photoshop. This was my submission for the 2023 Texas State VASE event. It went on to receive a Gold Seal.</description>
+      <description>A digital artpeice Rendered in Blender and edited in photoshop. This was my submission for the 2023 Texas State VASE event.</description>
     </item>
     
     <item>
