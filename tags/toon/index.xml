@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toon on cyberneel</title>
+    <link>https://cyberneel.github.io/tags/toon/</link>
+    <description>Recent content in Toon on cyberneel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberneel.github.io/tags/toon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>White Bear Toon</title>
+      <link>https://cyberneel.github.io/blog/white-bear-toon/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberneel.github.io/blog/white-bear-toon/</guid>
+      <description>A cute bear modelled in Blender using subdivision modelling. The shading was done using the Lightning Boy Studio shader addon for blender.</description>
+    </item>
+    
+  </channel>
+</rss>
